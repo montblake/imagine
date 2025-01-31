@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex-1 overflow-y-auto bg-neutral-100 flex flex-col justify-start items-center">
+    <main className="flex-1 overflow-y-auto bg-neutral-100/0 flex flex-col justify-start items-center">
       <div className="p-4">
         <Image
           className="rounded-2xl"
